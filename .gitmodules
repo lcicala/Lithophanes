@@ -1,0 +1,6 @@
+[submodule "LinearAlgebra"]
+	path = LinearAlgebra
+	url = https://github.com/lcicala/LinearAlgebra.git
+[submodule "STLVolumeCalculator"]
+	path = STLVolumeCalculator
+	url = https://github.com/lcicala/STLVolumeCalculator.git
